@@ -1,0 +1,59 @@
+2020-06-16 14:37:48 INFO  CartServiceImpl:83 - Product Added Successfully into cart with cart Id: 2 and UserId: 1
+2020-06-16 14:53:39 INFO  UserServiceImpl:28 - User Added Successfully
+2020-06-16 14:59:39 INFO  ProductServiceImpl:53 - Product of type Apparal Addded Successfully
+2020-06-16 15:26:37 INFO  UserServiceImpl:28 - User Added Successfully
+2020-06-16 15:26:49 INFO  UserServiceImpl:28 - User Added Successfully
+2020-06-16 15:27:05 INFO  UserServiceImpl:28 - User Added Successfully
+2020-06-16 15:27:18 INFO  UserServiceImpl:28 - User Added Successfully
+2020-06-16 15:28:38 INFO  ProductServiceImpl:45 - Product of type Book Addded Successfully
+2020-06-16 15:29:31 INFO  ProductServiceImpl:45 - Product of type Book Addded Successfully
+2020-06-16 15:30:59 INFO  ProductServiceImpl:45 - Product of type Book Addded Successfully
+2020-06-16 15:32:05 INFO  ProductServiceImpl:53 - Product of type Apparal Addded Successfully
+2020-06-16 15:32:26 INFO  ProductServiceImpl:53 - Product of type Apparal Addded Successfully
+2020-06-16 15:32:48 INFO  ProductServiceImpl:53 - Product of type Apparal Addded Successfully
+2020-06-16 15:33:25 INFO  ProductServiceImpl:67 - Product Returned successfully with productName TV
+2020-06-16 15:33:32 ERROR ProductServiceImpl:63 - Product Not Found With Entered Product Name
+2020-06-16 15:33:42 INFO  ProductServiceImpl:67 - Product Returned successfully with productName I Phone
+2020-06-16 15:33:47 ERROR ProductServiceImpl:63 - Product Not Found With Entered Product Name
+2020-06-16 15:33:59 INFO  ProductServiceImpl:82 - Product Returned successfully with Product Type book
+2020-06-16 15:34:08 INFO  ProductServiceImpl:82 - Product Returned successfully with Product Type apparal
+2020-06-16 15:34:12 ERROR ProductServiceImpl:79 - Product Not Found With Entered Product Type
+2020-06-16 15:34:37 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 1 and UserId: 1
+2020-06-16 15:34:40 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 1 and UserId: 1
+2020-06-16 15:34:47 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 1 and UserId: 1
+2020-06-16 15:34:55 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 2 and UserId: 2
+2020-06-16 15:35:00 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 2 and UserId: 2
+2020-06-16 15:35:01 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 2 and UserId: 2
+2020-06-16 15:35:07 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 2 and UserId: 2
+2020-06-16 15:35:16 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 3 and UserId: 3
+2020-06-16 15:35:28 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 4 and UserId: 4
+2020-06-16 15:35:51 INFO  CartServiceImpl:180 - View Cart with cartId: 1 and Total Price Rs.580.0
+2020-06-16 15:36:00 INFO  CartServiceImpl:180 - View Cart with cartId: 2 and Total Price Rs.2630.0
+2020-06-16 15:36:13 INFO  CartServiceImpl:180 - View Cart with cartId: 3 and Total Price Rs.1000.0
+2020-06-16 15:36:23 INFO  CartServiceImpl:180 - View Cart with cartId: 4 and Total Price Rs.500.0
+2020-06-16 15:36:51 INFO  CartServiceImpl:203 - Product Quantity Successfully Updated  with cart Id: 1
+2020-06-16 15:37:19 INFO  CartServiceImpl:203 - Product Quantity Successfully Updated  with cart Id: 4
+2020-06-16 15:37:54 ERROR CartServiceImpl:223 - Product Quantity Cannot be negative
+2020-06-16 15:38:24 INFO  CartServiceImpl:154 -  All Product Successfully removed from cart with cart Id: 4
+2020-06-16 15:38:24 INFO  CartServiceImpl:218 - Products Successfully Removed  with cart Id: 4as Quantity 0
+2020-06-16 15:38:56 INFO  CartServiceImpl:125 - Product Removed Successfully into cart with cart Id: 1 and Product Id: 1
+2020-06-16 15:39:38 INFO  CartServiceImpl:125 - Product Removed Successfully into cart with cart Id: 1 and Product Id: 4
+2020-06-16 15:40:16 INFO  CartServiceImpl:125 - Product Removed Successfully into cart with cart Id: 1 and Product Id: 3
+2020-06-16 15:49:37 INFO  CartServiceImpl:125 - Product Removed Successfully into cart with cart Id: 3 and Product Id: 5
+2020-06-16 15:53:24 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 1 and UserId: 1
+2020-06-16 15:53:30 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 1 and UserId: 1
+2020-06-16 15:53:39 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 3 and UserId: 3
+2020-06-16 15:53:48 INFO  CartServiceImpl:81 - Product Added Successfully into cart with cart Id: 4 and UserId: 4
+2020-06-16 15:55:10 INFO  CartServiceImpl:125 - Product Removed Successfully into cart with cart Id: 1 and Product Id: 2
+2020-06-16 15:55:31 ERROR CartServiceImpl:130 - Product Not Found in Cart
+2020-06-16 15:55:52 INFO  CartServiceImpl:159 -  All Product Successfully removed from cart with cart Id: 1
+2020-06-16 15:55:52 INFO  CartServiceImpl:223 - Products Successfully Removed  with cart Id: 1as Quantity 0
+2020-06-16 15:56:30 INFO  CartServiceImpl:208 - Product Quantity Successfully Updated  with cart Id: 3
+2020-06-16 15:56:52 INFO  CartServiceImpl:216 - Product Quantity Cannot Updated as Product Not Found
+2020-06-16 15:57:13 INFO  CartServiceImpl:159 -  All Product Successfully removed from cart with cart Id: 3
+2020-06-16 15:57:36 INFO  CartServiceImpl:185 - View Cart with cartId: 4 and Total Price Rs.1000.0
+2020-06-16 15:57:53 INFO  CartServiceImpl:185 - View Cart with cartId: 3 and Total Price Rs.0.0
+2020-06-16 15:58:23 ERROR ProductServiceImpl:63 - Product Not Found With Entered Product Name
+2020-06-16 15:58:36 INFO  ProductServiceImpl:67 - Product Returned successfully with productName Physics
+2020-06-16 15:58:45 INFO  ProductServiceImpl:82 - Product Returned successfully with Product Type apparal
+2020-06-16 16:07:05 INFO  ProductServiceImpl:45 - Product of type Book Addded Successfully
